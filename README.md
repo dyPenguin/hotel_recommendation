@@ -12,6 +12,16 @@
 ## 사용 패키지
 Selenium, PyQt5, pandas, urllib, sklearn, gensim, konlpy ‥
 
+## 주요 기능
+
+<p align="center"><메인 UI>
+<p align="center"><img src="/img/Screenshots/main.PNG" width="700px" height="450px"></>
+  
+```
+작성 필요
+```
+
+
 ## 프로젝트 진행 과정
 ### 1. 데이터 수집
 - Selenium 을 사용하여 크롤링
@@ -36,12 +46,7 @@ Selenium, PyQt5, pandas, urllib, sklearn, gensim, konlpy ‥
 
 ### 4. GUI 구현
 
-<p align="center"><메인 UI>
-<p align="center"><img src="/img/Screenshots/main.PNG" width="700px" height="450px"></>
 
 -----------------------------
 
-## 주요 기능
-```
-작성 필요
-```
+

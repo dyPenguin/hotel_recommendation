@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="res">
-    <file>img/background.jpg</file>
-    <file>img/bad.jpg</file>
-    <file>img/good.jpg</file>
-    <file>img/hotel_icon2.png</file>
-  </qresource>
-</RCC>

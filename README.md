@@ -1,8 +1,7 @@
 # Hotel Recommendation Project
 
 ## 프로젝트 목표
-호텔 선택 시, 중요한 참고 자료가 되는 리뷰 데이터를 형태소 단위로 토큰화하여 유의미한 단어들을 추출하고, 연관 관계를 분석하여   
-비슷한 호텔을 추천해주는 어플리케이션 개발
+호텔 선택 시, 중요한 참고 자료가 되는 리뷰 데이터를 통해 유의미한 단어들을 추출하고, 연관 관계를 분석하여 비슷한 호텔을 추천해주는 어플리케이션 개발
 
 ## 작업 환경
 - Anaconda Python 3.7
@@ -11,16 +10,6 @@
 
 ## 사용 패키지
 Selenium, PyQt5, pandas, urllib, sklearn, gensim, konlpy ‥
-
-## 주요 기능
-
-<p align="center"><메인 UI>
-<p align="center"><img src="/img/Screenshots/main.PNG" width="700px" height="450px"></>
-  
-```
-작성 필요
-```
-
 
 ## 프로젝트 진행 과정
 ### 1. 데이터 수집
@@ -46,7 +35,6 @@ Selenium, PyQt5, pandas, urllib, sklearn, gensim, konlpy ‥
 
 ### 4. GUI 구현
 
-
------------------------------
+## 주요 기능
 
 

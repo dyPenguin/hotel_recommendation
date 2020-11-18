@@ -47,9 +47,12 @@ pip install 패키지명
 
 ### 4. GUI 구현
 
----------------------------
-## 주요 기능
 
+## 주요 기능
 <p align="center"><img src="/img/Screenshots/main.PNG" width="700px" height="450px"></>
+
+### 검색 기능 1
+
+### 검색 기능 2
 
 

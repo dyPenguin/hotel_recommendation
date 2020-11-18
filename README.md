@@ -9,12 +9,24 @@
 - **Jupyter Notebook**
 
 ## 사용 패키지
-
 **Selenium, PyQt5, pandas, urllib, sklearn, gensim, konlpy ‥**
+
+- KoNLPy: 한글 형태소 분석 패키지 설치 전,
+
+1. JAVA 1.7 이상의 설치
+2. JAVA_HOME PATH 설정
+3. JPype1 (>=0.5.7) 설치
+```
+pip install konlpy
+```
+- 그 외 필요한 패키지 설치
+```
+pip install 패키지명
+```
 
 ## 프로젝트 진행 과정
 ### 1. 데이터 수집
-- Selenium 을 사용하여 크롤링
+- **Selenium** 을 사용하여 크롤링
 
   > **네이버 호텔 사이트**
   > - 서울 지역
@@ -24,13 +36,13 @@
 
 ### 2. 자연어 처리
 
-- Okt를 사용하여 토큰화
+- **Okt** 를 사용하여 토큰화
 - 불용어(stopword) 처리
 - 처리 된 데이터들을 한 줄로 구성
 
 ### 3. 모델 생성 및 학습
 
-- Gensim 패키지를 통한 Word2Vec
+- **Gensim** 패키지를 통한 Word2Vec
 - Embedding Model 생성
 - 단어들의 유사도 분석
 
